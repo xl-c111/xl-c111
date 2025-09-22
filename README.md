@@ -4,7 +4,7 @@
 🎓 Software Engineer @ **Holberton School Australia**  
 💼 Looking for: **Internships & Junior Software Engineer roles** (Full-Stack / Backend / Frontend)  
 
-🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/xiaoling-cui-9b504a350/) | [GitHub](https://github.com/xl-c111) | 📧 **xiaolingcui0111@gmail.com**
+🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/xiaoling-cui-9b504a350/) | [Resume](https://www.kickresume.com/cv/xiaoling-cui/) | 📧 **xiaolingcui0111@gmail.com**
 
 
 ## 📊 Weekly Development Breakdown  
