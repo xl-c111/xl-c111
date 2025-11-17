@@ -6,7 +6,7 @@
 
 🔗 Connect with me：
 [💼 LinkedIn](https://www.linkedin.com/in/xiaoling-cui-9b504a350/) | 
-[📄 Resume](https://xl-c111.github.io/xiaoling-cui-resume/) | 
+[📄 Resume](https://xl-c111.github.io/xiaoling-cui-portfolio/) | 
 📧 **xiaolingcui0111@gmail.com**
 
 
@@ -63,10 +63,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, JavaScript, TypeScript, C, SQL  
-- **Frameworks:** Flask, Next.js, Node.js, React  
+- **Languages:** Python, JavaScript, TypeScript, C 
+- **Frameworks:** React, Flask, Express.js 
+- **DevOps & Cloud:** AWS, Terraform, Docker, GitHub Actions  
 - **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Tools:** Docker, GitHub Actions, VS Code  
+
 
 ---
 
