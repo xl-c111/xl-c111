@@ -6,7 +6,7 @@
 
 🔗 Connect with me：
 [💼 LinkedIn](https://www.linkedin.com/in/xiaoling-cui-9b504a350/) | 
-[📄 Resume](https://xl-c111.github.io/xiaoling-cui-portfolio/) | 
+[📄 Portfolio](https://xl-c111.github.io/xiaoling-cui-portfolio/) | 
 📧 **xiaolingcui0111@gmail.com**
 
 
