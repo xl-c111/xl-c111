@@ -14,7 +14,6 @@
 
 **What drives me:** Curiosity-driven development, team collaboration, and building AI-powered solutions that make an impact.
 
----
   
 ## 📊 Weekly Development Breakdown  
 
@@ -61,7 +60,7 @@ HTML                     3 repos             ███░░░░░░░░�
  Last Updated on 04/12/2025 01:11:18 UTC
 <!--END_SECTION:waka-->
 
----
+
 ## 🛠️ Tech Stack
 
 - **Languages:** Python • JavaScript • TypeScript • C • SQL
