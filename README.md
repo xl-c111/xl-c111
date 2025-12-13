@@ -25,7 +25,7 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 ## 🚀 Featured Projects
 
 **[Flora](https://github.com/xl-c111/Flora)** - Full-stack floral ecommerce with AI-powered gift messages, Stripe subscriptions, and Auth0 authentication, deployed on AWS
-`React 19` `TypeScript` `Express` `Prisma` `PostgreSQL` `AWS` `Terraform` `Stripe` `Gemini AI` • [Live Demo](https://dzmu16crq41il.cloudfront.net/)
+`React 19` `TypeScript` `Express` `Prisma` `PostgreSQL` `AWS` `Terraform` `Auth0` `Stripe` `Gemini AI` • [Live Demo](https://dzmu16crq41il.cloudfront.net/)
 
 **[HBnB](https://github.com/xl-c111/HBnB-Luxe_Airbnb_Clone)** - Production-ready Airbnb clone with multi-tenant architecture, Stripe payments, host analytics dashboard, and automated CI/CD pipeline
 `Python` `Flask` `React 19` `SQLAlchemy` `MySQL` `AWS` `Terraform` `Stripe` `GitHub Actions` • [Live Demo](https://d2gfqpg21nkiyl.cloudfront.net/)
@@ -45,26 +45,6 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 🌙 Night                  1305 commits        ███████░░░░░░░░░░░░░░░░░░   27.08 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Australia/Melbourne
-
-💬 Programming Languages: 
-Markdown                 2 hrs 2 mins        ████████████░░░░░░░░░░░░░   47.87 % 
-CSS                      53 mins             █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-TypeScript               52 mins             █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 16 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      4 hrs 16 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -75,10 +55,7 @@ Shell                    3 repos             ███░░░░░░░░�
 HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
-
-
-
- Last Updated on 13/12/2025 01:08:58 UTC
+Last Updated on 13/12/2025 01:08:58 UTC
 <!--END_SECTION:waka-->
 
 
@@ -90,11 +67,7 @@ HTML                     3 repos             ███░░░░░░░░�
 - **AI/ML:** Gemini AI • OpenAI APIs • Prompt Engineering
 - **DevOps & Cloud:** AWS • Docker • Terraform • GitHub Actions
 - **Databases:** MySQL • PostgreSQL • Prisma ORM
-
-## 🌱 Currently Learning & Building
-
-- 📚 Learning: Machine Learning fundamentals and AI integration patterns
-- 🎯 Next Goal: Building and deploying ML models to solve real-world problems
+  
 
 ## 🤝 Let's Connect!
 
