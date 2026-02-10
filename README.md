@@ -28,7 +28,7 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 `React 19` `TypeScript` `Express` `Prisma` `PostgreSQL` `AWS` `Terraform` `Auth0` `Stripe` `Gemini AI` • [Live Demo](https://dzmu16crq41il.cloudfront.net/)
 
 **[HBnB](https://github.com/xl-c111/HBnB-Luxe_Airbnb_Clone)** - Production-ready Airbnb clone with multi-tenant architecture, Stripe payments, host analytics dashboard, and automated CI/CD pipeline
-`Python` `Flask` `React 19` `SQLAlchemy` `MySQL` `Vercel` `Fly.io` `Stripe` `GitHub Actions` • [Live Demo](https://d2gfqpg21nkiyl.cloudfront.net/)
+`Python` `Flask` `React 19` `SQLAlchemy` `MySQL` `Vercel` `Fly.io` `Stripe` `GitHub Actions` • [Live Demo](https://hbnb-luxeairbnbclone.vercel.app/)
 
 > 💡 View more projects on my [portfolio](https://xiaoling-cui-portfolio.vercel.app/) or check out my pinned repositories below!
 
