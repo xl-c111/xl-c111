@@ -39,27 +39,27 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                364 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-🌆 Daytime                1488 commits        ███████░░░░░░░░░░░░░░░░░░   29.25 % 
-🌃 Evening                1893 commits        █████████░░░░░░░░░░░░░░░░   37.21 % 
-🌙 Night                  1343 commits        ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+🌞 Morning                367 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+🌆 Daytime                1489 commits        ███████░░░░░░░░░░░░░░░░░░   29.23 % 
+🌃 Evening                1894 commits        █████████░░░░░░░░░░░░░░░░   37.18 % 
+🌙 Night                  1344 commits        ███████░░░░░░░░░░░░░░░░░░   26.38 % 
 ```
 
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-Python                   7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-C                        7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Python                   7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
 
 
- Last Updated on 05/03/2026 01:29:48 UTC
+ Last Updated on 06/03/2026 01:43:43 UTC
 <!--END_SECTION:waka-->
 
 
