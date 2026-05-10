@@ -15,9 +15,8 @@
 ## 💡 About Me
 Software Engineer with a **Business Analytics background**, combining data-driven thinking with technical skills to build practical solutions. Currently focused on full-stack development and AI integration.
 
-- 🎓 Software Engineering Graduate @ **Holberton School Australia**
-- 💼 **Seeking:** Internships & Junior Developer roles (Full-Stack / Backend / Frontend)
-- 🤖 **Current Focus:** Building AI-powered applications, collaborative tools, and scalable web solutions
+- 🎓 Software Engineering Graduate
+- 🤖 **Current Focus:** C#, .Net
 - 📊 **Unique Edge:** Translating business requirements into technical solutions with analytical precision
 
 **What drives me:** Building products that solve real problems, learning through hands-on projects, and contributing to collaborative development environments.
