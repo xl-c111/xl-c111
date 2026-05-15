@@ -35,30 +35,20 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 ## 📊 GitHub Contributions & Activity  
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+**I Mostly Code in Java** 
 
 ```text
-🌞 Morning                422 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-🌆 Daytime                1608 commits        ███████░░░░░░░░░░░░░░░░░░   29.74 % 
-🌃 Evening                1986 commits        █████████░░░░░░░░░░░░░░░░   36.74 % 
-🌙 Night                  1390 commits        ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-```
-
-
-**I Mostly Code in TypeScript** 
-
-```text
-Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Java                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Python                   7 repos             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
 
 
- Last Updated on 14/05/2026 02:37:35 UTC
+ Last Updated on 15/05/2026 02:38:14 UTC
 <!--END_SECTION:waka-->
 
 
