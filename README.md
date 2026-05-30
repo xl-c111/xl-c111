@@ -35,6 +35,16 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 ## 📊 GitHub Contributions & Activity  
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                422 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+🌆 Daytime                1614 commits        ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+🌃 Evening                1989 commits        █████████░░░░░░░░░░░░░░░░   36.74 % 
+🌙 Night                  1388 commits        ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+```
+
+
 **I Mostly Code in Java** 
 
 ```text
@@ -48,7 +58,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2026 02:40:59 UTC
+ Last Updated on 30/05/2026 02:35:23 UTC
 <!--END_SECTION:waka-->
 
 
