@@ -38,10 +38,10 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                422 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+🌞 Morning                422 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 🌆 Daytime                1617 commits        ███████░░░░░░░░░░░░░░░░░░   29.83 % 
 🌃 Evening                1991 commits        █████████░░░░░░░░░░░░░░░░   36.73 % 
-🌙 Night                  1390 commits        ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+🌙 Night                  1391 commits        ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
 ```
 
 
@@ -50,15 +50,15 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 ```text
 Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
 Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+C#                       4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
 JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 
 
 
 
- Last Updated on 07/06/2026 02:55:37 UTC
+ Last Updated on 08/06/2026 02:58:30 UTC
 <!--END_SECTION:waka-->
 
 
