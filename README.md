@@ -35,6 +35,8 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 ## 📊 GitHub Contributions & Activity  
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2039%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -44,6 +46,28 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 🌙 Night                  1391 commits        ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
 ```
 
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 37 mins (100.0%)
+
+✍️ 148 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 29,623,863 Input Tokens, 113,465 Output Tokens
+
+💵 $151.52 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 23 AI Prompts
+
+GPT                      153 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 68 characters per prompt
+🔁 Iterative Prompter — average 23 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
 
 **I Mostly Code in Java** 
 
@@ -58,7 +82,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 02:23:48 UTC
+ Last Updated on 28/07/2026 01:58:37 UTC
 <!--END_SECTION:waka-->
 
 
