@@ -54,18 +54,18 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 155,090 Input Tokens, 1,534 Output Tokens
+🔤 179,664 Input Tokens, 1,548 Output Tokens
 
-💵 $0.82 Estimated AI Cost This Week
+💵 $0.94 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 3 AI Sessions, 3 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
 📝 Concise Prompter — average 42 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -82,7 +82,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 02:11:33 UTC
+ Last Updated on 02/08/2026 02:08:32 UTC
 <!--END_SECTION:waka-->
 
 
