@@ -35,7 +35,7 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 ## 📊 GitHub Contributions & Activity  
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-121%20hrs%205%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -50,23 +50,24 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 26 mins (39.31%)
+⏱ AI Coding Time: 3 hrs 33 mins (44.76%)
 
-✍️ 1,089 lines written by AI, 347 lines written by hand (75.84% AI-written)
+✍️ 1,347 lines written by AI, 349 lines written by hand (79.42% AI-written)
 
-🔤 5,725,585 Input Tokens, 43,739 Output Tokens
+🔤 12,240,489 Input Tokens, 81,197 Output Tokens
 
-💵 $29.82 Estimated AI Cost This Week
+💵 $54.63 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 17 AI Prompts
+🧠 5 AI Sessions, 31 AI Prompts
 
-GPT                      1,172 lines         █████████████████████████   100.00 % 
+GPT                      1,431 lines         █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 75.84% of written lines came from AI
-📄 Detailed Prompter — average 707 characters per prompt
+🤖 AI-Driven — 79.42% of written lines came from AI
+📝 Concise Prompter — average 456 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 35.96% of changed lines were hand-edited
+🚀 High AI Trust — 31.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -82,7 +83,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 01:56:29 UTC
+ Last Updated on 05/08/2026 01:56:27 UTC
 <!--END_SECTION:waka-->
 
 
