@@ -35,8 +35,6 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 ## 📊 GitHub Contributions & Activity  
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-122%20hrs%2016%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -50,23 +48,23 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 33 mins (44.76%)
+⏱ AI Coding Time: 3 hrs 54 mins (47.1%)
 
 ✍️ 1,347 lines written by AI, 349 lines written by hand (79.42% AI-written)
 
-🔤 13,356,531 Input Tokens, 116,291 Output Tokens
+🔤 15,027,975 Input Tokens, 137,407 Output Tokens
 
-💵 $61.26 Estimated AI Cost This Week
+💵 $70.25 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 31 AI Prompts
+🧠 8 AI Sessions, 35 AI Prompts
 
 GPT                      1,431 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 79.42% of written lines came from AI
-📝 Concise Prompter — average 456 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 438 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 31.6% of changed lines were hand-edited
 ```
 
@@ -83,7 +81,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 01:59:03 UTC
+ Last Updated on 07/08/2026 02:22:40 UTC
 <!--END_SECTION:waka-->
 
 
