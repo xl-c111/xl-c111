@@ -35,7 +35,7 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 ## 📊 GitHub Contributions & Activity  
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-135%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-140%20hrs%2023%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -50,25 +50,25 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 26 mins (81.26%)
+⏱ AI Coding Time: 9 hrs 51 mins (77.31%)
 
-✍️ 2,839 lines written by AI, 124 lines written by hand (95.82% AI-written)
+✍️ 3,196 lines written by AI, 187 lines written by hand (94.47% AI-written)
 
-🔤 2,942,526 Input Tokens, 389,809 Output Tokens
+🔤 3,593,182 Input Tokens, 463,315 Output Tokens
 
-💵 $39.69 Estimated AI Cost This Week
+💵 $46.87 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 99 AI Prompts
+🧠 13 AI Sessions, 127 AI Prompts
 
-GPT                      2,760 lines         ████████████████████████░   96.30 % 
-Opus                     106 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+GPT                      3,117 lines         ████████████████████████░   96.71 % 
+Opus                     106 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.82% of written lines came from AI
-📝 Concise Prompter — average 275 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 4.47% of changed lines were hand-edited
+🤖 AI-Driven — 94.47% of written lines came from AI
+📝 Concise Prompter — average 127 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 6.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -84,7 +84,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 02:20:40 UTC
+ Last Updated on 08/09/2026 02:33:12 UTC
 <!--END_SECTION:waka-->
 
 
