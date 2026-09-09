@@ -35,7 +35,7 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 ## 📊 GitHub Contributions & Activity  
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-140%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-141%20hrs%2051%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -50,25 +50,26 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 51 mins (77.31%)
+⏱ AI Coding Time: 9 hrs 40 mins (76.97%)
 
-✍️ 3,196 lines written by AI, 187 lines written by hand (94.47% AI-written)
+✍️ 3,418 lines written by AI, 187 lines written by hand (94.81% AI-written)
 
-🔤 3,593,182 Input Tokens, 463,315 Output Tokens
+🔤 3,602,390 Input Tokens, 428,729 Output Tokens
 
-💵 $46.87 Estimated AI Cost This Week
+💵 $46.24 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 127 AI Prompts
+🧠 13 AI Sessions, 123 AI Prompts
 
-GPT                      3,117 lines         ████████████████████████░   96.71 % 
-Opus                     106 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+GPT                      3,342 lines         ████████████████████████░   96.93 % 
+Opus                     106 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.47% of written lines came from AI
-📝 Concise Prompter — average 127 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 6.17% of changed lines were hand-edited
+🤖 AI-Driven — 94.81% of written lines came from AI
+📝 Concise Prompter — average 112 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 5.79% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -84,7 +85,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 02:33:12 UTC
+ Last Updated on 09/09/2026 02:35:10 UTC
 <!--END_SECTION:waka-->
 
 
