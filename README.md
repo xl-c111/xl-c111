@@ -35,7 +35,7 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 ## 📊 GitHub Contributions & Activity  
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-142%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-143%20hrs%2018%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -50,26 +50,26 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 31 mins (73.84%)
+⏱ AI Coding Time: 12 hrs (78.39%)
 
-✍️ 3,476 lines written by AI, 188 lines written by hand (94.87% AI-written)
+✍️ 3,066 lines written by AI, 90 lines written by hand (97.15% AI-written)
 
-🔤 3,813,968 Input Tokens, 440,151 Output Tokens
+🔤 4,681,534 Input Tokens, 476,503 Output Tokens
 
-💵 $52.10 Estimated AI Cost This Week
+💵 $63.10 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 135 AI Prompts
+🧠 18 AI Sessions, 154 AI Prompts
 
-GPT                      3,400 lines         ████████████████████████░   96.98 % 
-Opus                     106 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+GPT                      2,999 lines         ████████████████████████░   96.59 % 
+Opus                     106 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.87% of written lines came from AI
-📝 Concise Prompter — average 106 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 5.73% of changed lines were hand-edited
+🤖 AI-Driven — 97.15% of written lines came from AI
+📄 Detailed Prompter — average 1,027 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 3.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -85,7 +85,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 02:30:28 UTC
+ Last Updated on 12/09/2026 02:37:45 UTC
 <!--END_SECTION:waka-->
 
 
