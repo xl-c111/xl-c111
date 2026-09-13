@@ -35,7 +35,7 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 ## 📊 GitHub Contributions & Activity  
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-143%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-146%20hrs%2016%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -50,26 +50,26 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs (78.39%)
+⏱ AI Coding Time: 11 hrs 13 mins (78.23%)
 
-✍️ 3,066 lines written by AI, 90 lines written by hand (97.15% AI-written)
+✍️ 1,506 lines written by AI, 90 lines written by hand (94.36% AI-written)
 
-🔤 4,681,534 Input Tokens, 476,503 Output Tokens
+🔤 4,061,081 Input Tokens, 377,046 Output Tokens
 
-💵 $63.10 Estimated AI Cost This Week
+💵 $60.10 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 154 AI Prompts
+🧠 19 AI Sessions, 146 AI Prompts
 
-GPT                      2,999 lines         ████████████████████████░   96.59 % 
-Opus                     106 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+GPT                      1,439 lines         ███████████████████████░░   93.14 % 
+Opus                     106 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.15% of written lines came from AI
-📄 Detailed Prompter — average 1,027 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 3.54% of changed lines were hand-edited
+🤖 AI-Driven — 94.36% of written lines came from AI
+📄 Detailed Prompter — average 1,080 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 6.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -85,7 +85,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 02:37:45 UTC
+ Last Updated on 13/09/2026 02:37:27 UTC
 <!--END_SECTION:waka-->
 
 
