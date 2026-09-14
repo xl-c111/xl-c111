@@ -35,7 +35,7 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 ## 📊 GitHub Contributions & Activity  
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-146%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-146%20hrs%2059%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -50,26 +50,26 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 13 mins (78.23%)
+⏱ AI Coding Time: 7 hrs 2 mins (76.34%)
 
-✍️ 1,506 lines written by AI, 90 lines written by hand (94.36% AI-written)
+✍️ 901 lines written by AI, 64 lines written by hand (93.37% AI-written)
 
-🔤 4,061,081 Input Tokens, 377,046 Output Tokens
+🔤 3,307,190 Input Tokens, 263,597 Output Tokens
 
-💵 $60.10 Estimated AI Cost This Week
+💵 $47.17 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 146 AI Prompts
+🧠 16 AI Sessions, 113 AI Prompts
 
-GPT                      1,439 lines         ███████████████████████░░   93.14 % 
-Opus                     106 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+GPT                      921 lines           █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.36% of written lines came from AI
-📄 Detailed Prompter — average 1,080 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 6.87% of changed lines were hand-edited
+🤖 AI-Driven — 93.37% of written lines came from AI
+📄 Detailed Prompter — average 1,375 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 7.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -85,7 +85,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 02:37:27 UTC
+ Last Updated on 14/09/2026 02:52:52 UTC
 <!--END_SECTION:waka-->
 
 
