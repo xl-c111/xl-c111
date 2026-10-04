@@ -50,23 +50,23 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 13 mins (92.04%)
+⏱ AI Coding Time: 1 hr 33 mins (88.95%)
 
-✍️ 191 lines written by AI, 3 lines written by hand (98.45% AI-written)
+✍️ 255 lines written by AI, 3 lines written by hand (98.84% AI-written)
 
-🔤 1,027,913 Input Tokens, 42,493 Output Tokens
+🔤 870,762 Input Tokens, 44,704 Output Tokens
 
-💵 $5.11 Estimated AI Cost This Week
+💵 $4.49 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 67 AI Prompts
+🧠 7 AI Sessions, 43 AI Prompts
 
-GPT                      331 lines           █████████████████████████   100.00 % 
+GPT                      395 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.45% of written lines came from AI
-📚 Verbose Prompter — average 5,201 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.9% of changed lines were hand-edited
+🤖 AI-Driven — 98.84% of written lines came from AI
+📚 Verbose Prompter — average 7,883 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -82,7 +82,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 03:19:43 UTC
+ Last Updated on 04/10/2026 03:47:48 UTC
 <!--END_SECTION:waka-->
 
 
