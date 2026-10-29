@@ -35,7 +35,7 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 ## 📊 GitHub Contributions & Activity  
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-165%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-165%20hrs%2046%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -56,7 +56,7 @@ Software Engineer with a **Business Analytics background**, combining data-drive
 
 🔤 680,852 Input Tokens, 55,522 Output Tokens
 
-💵 $3.46 Estimated AI Cost This Week
+💵 $3.41 Estimated AI Cost This Week
 
 🧠 7 AI Sessions, 26 AI Prompts
 
@@ -82,7 +82,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 03:32:34 UTC
+ Last Updated on 29/10/2026 03:54:53 UTC
 <!--END_SECTION:waka-->
 
 
